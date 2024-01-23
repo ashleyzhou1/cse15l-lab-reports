@@ -2,7 +2,7 @@
 
 ![Image](1-1.png)
 
-The original working directory before the command was run was /home/lecture1, and the working directory after the command was run was `/home`
+The original working directory before the command was run was `/home/lecture1`, and the working directory after the command was run was `/home`
 When the `cd` command has no arguments, it takes you to the `/home` directory, which is why the working directory was `/home` after the command was run. 
 The output is not an error.
 
