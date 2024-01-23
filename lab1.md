@@ -50,7 +50,7 @@ The output is not an error.
 
 ![Image](1-7.png)
 
-The working directory is `/homelecture1`.
+The working directory is `/home/lecture1`.
 The output is `Hello, world` because when you type the `cat` command without arguments it just prints out what you type in as the input, which was `Hello, world` in this case.
 The output is not an error.  
 
