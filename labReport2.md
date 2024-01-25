@@ -49,6 +49,6 @@ Absolute path to public key: `/Users/ashleyzhou/.ssh/id_rsa.pub`
 NEED TO LOGIN WITHOUT PASSWORD
 
 Part 3
-In a couple of sentences, describe something you learned from lab in week 2 or 3 that you didn't know before.
+
 Something I learned from lab is the ssh command creates a secure connection between two systems. In this case,
 we established a connection between my own computer and the remote server.
