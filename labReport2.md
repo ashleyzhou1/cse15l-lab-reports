@@ -50,5 +50,5 @@ NEED TO LOGIN WITHOUT PASSWORD
 
 Part 3
 
-Something I learned from lab is the ssh command creates a secure connection between two systems. In this case,
-we established a connection between my own computer and the remote server.
+Something I learned from lab is that you can use the scp command to copy files between two systems. This is how we copied the 
+absolute path of the public key into our ieng account.
