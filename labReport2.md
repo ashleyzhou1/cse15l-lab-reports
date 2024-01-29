@@ -57,4 +57,5 @@ Logging in without password:
 Part 3
 
 Something I learned from lab is that you can use the scp command to copy files between two systems. This is how we copied the 
-absolute path of the public key into our ieng account's file system.
+absolute path of the public key into our ieng account's file system, so that we could login without
+needing to type our password.
