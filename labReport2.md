@@ -45,10 +45,16 @@ The value of `result` changes to "jpolitz: Hello" + "\n" + yash: How are you" be
 Part 2
 
 Absolute path to private key: `/home/linux/ieng6/oce/3f/aszhou`
+![Image](2.1-1.png)
+
 Absolute path to public key: `/Users/ashleyzhou/.ssh/id_rsa.pub`
-NEED TO LOGIN WITHOUT PASSWORD
+![Image](2.1-2.png)
+![Image](2.1-3.png)
+
+Logging in without password:
+![Image](2.1-4.png)
 
 Part 3
 
 Something I learned from lab is that you can use the scp command to copy files between two systems. This is how we copied the 
-absolute path of the public key into our ieng account.
+absolute path of the public key into our ieng account's file system.
