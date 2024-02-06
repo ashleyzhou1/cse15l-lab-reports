@@ -26,4 +26,4 @@ Input that doesn't induce a failure for `reversed()`:
 ```
 assertArrayEquals(new int[]{ }, ArrayExamples.reversed(input1));
 ```
-
+The symptom: ![Image](3-1.png)
