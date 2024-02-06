@@ -69,3 +69,12 @@ After:
     return newArray;
   }
 ```
+For `reverseInPlace()`, I changed the for loop to only iterate through half the array, and 
+I changed the body of the loop to have it swap the current element and the corresponding
+symmetrical element in the array. This fixes the issue of the elements in the array being 
+mirrored, rather than reversed (as the array is supposed to be reversed). 
+For `reversed()`, I changed the body of the loop to have it assign the elements of the 
+original array to the new array, and I also changed it to return the new array. This fixes
+the problem of having the values of the original array be reassigned (rather than the new
+array), and it also fixes the problem of returning the original array, as it is supposed
+to return a new array with the elements of the original array reversed.
