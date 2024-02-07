@@ -82,6 +82,7 @@ to return a new array with the elements of the original array reversed.
 Part 2
 
 Option 1: `less -N`
+Source for option 1: https://phoenixnap.com/kb/less-command-in-linux
 
 Command: `less -N rr73.txt`
 Output (first 10 lines):
