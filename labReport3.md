@@ -83,7 +83,7 @@ Part 2
 
 Option 1: `less -N`
 
-Command: `biomed % less -N rr73.txt`
+Command: `less -N rr73.txt`
 Output (first 10 lines):
 ```
       1 
@@ -97,3 +97,20 @@ Output (first 10 lines):
       9         in vivo tissue contraction, a common
      10         feature of fibrosis, as well as the resolution of
 ```
+Command: `less -N rr74.txt`
+Output (first 10 lines):
+```
+      1 
+      2   
+      3     
+      4       
+      5         Introduction
+      6         NO, which may be synthesized by any of the three
+      7         isoforms of NOS, is a vasodilator of the pulmonary
+      8         circulation in many mammals. NO has been proposed as a
+      9         modulator of vascular tone and structure in the pulmonary
+     10         circulation, and previous studies using NOS inhibitors [ 1,
+```
+It's showing the line numbers with each line when displaying the contents of
+the text file. This is useful if you want to see the line numbers when you 
+view a file.
