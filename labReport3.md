@@ -82,6 +82,7 @@ to return a new array with the elements of the original array reversed.
 Part 2
 
 Option 1: `less -N`
+
 Command: `biomed % less -N rr73.txt`
 Output (first 10 lines):
 ```
