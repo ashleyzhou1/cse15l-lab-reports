@@ -120,6 +120,7 @@ Option 2: `less -p`
 Source for option 2: https://phoenixnap.com/kb/less-command-in-linux
 
 Command: `less -pfibrosis rr73.txt`
+
 Output:
 ```
 Introduction
@@ -130,6 +131,7 @@ in vivo tissue contraction, a common
 feature of <mark>fibrosis</mark>, as well as the resolution of
 ```
 Command:`less -psynthesized rr74.txt`
+
 Output: 
 ```
 Introduction
