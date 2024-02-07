@@ -83,7 +83,9 @@ Part 2
 
 Option 1: `less -N`
 Command: `biomed % less -N rr73.txt`
-Output: ` 1 
+Output (first 10 lines):
+```
+      1 
       2   
       3     
       4       
@@ -93,7 +95,4 @@ Output: ` 1
       8         in vitro model of 
       9         in vivo tissue contraction, a common
      10         feature of fibrosis, as well as the resolution of
-     11         granulation tissue that characterizes repair [ 1, 2].
-     12         Short-term co-cultures of monocytes with fibroblasts result
-     13         in the inhibition of collagen gel contraction [ 3], while
-     14         co-cultures of fibroblasts with neutrophils, or wi`
+```
