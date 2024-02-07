@@ -78,3 +78,22 @@ original array to the new array, and I also changed it to return the new array. 
 the problem of having the values of the original array be reassigned (rather than the new
 array), and it also fixes the problem of returning the original array, as it is supposed
 to return a new array with the elements of the original array reversed.
+
+Part 2
+
+Option 1: `less -N`
+Command: `biomed % less -N rr73.txt`
+Output: ` 1 
+      2   
+      3     
+      4       
+      5         Introduction
+      6         Three-dimensional (3D) collagen gel culture has been
+      7         used as an 
+      8         in vitro model of 
+      9         in vivo tissue contraction, a common
+     10         feature of fibrosis, as well as the resolution of
+     11         granulation tissue that characterizes repair [ 1, 2].
+     12         Short-term co-cultures of monocytes with fibroblasts result
+     13         in the inhibition of collagen gel contraction [ 3], while
+     14         co-cultures of fibroblasts with neutrophils, or wi`
