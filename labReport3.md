@@ -115,3 +115,27 @@ Output (first 10 lines):
 It's showing the line numbers with each line when displaying the contents of
 the text file. This is useful if you want to see the line numbers when you 
 view a file.
+
+Option 2: `less -p`
+Source for option 2: https://phoenixnap.com/kb/less-command-in-linux
+
+Command: `less -pfibrosis rr73.txt`
+Output:
+```
+Introduction
+Three-dimensional (3D) collagen gel culture has been
+used as an
+in vitro model of
+in vivo tissue contraction, a common
+feature of <mark>fibrosis</mark>, as well as the resolution of
+```
+Command:`less -psynthesized rr74.txt`
+Output: 
+```
+Introduction
+NO, which may be <mark>synthesized</mark> by any of the three
+isoforms of NOS, is a vasodilator of the pulmonary
+circulation in many mammals. NO has been proposed as a
+```
+It's finding the first occurence of a given String in the specified file. This is 
+useful if you want to see whether a specified file contains a given String or not.
