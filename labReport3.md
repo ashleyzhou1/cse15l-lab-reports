@@ -141,3 +141,30 @@ circulation in many mammals. NO has been proposed as a
 ```
 It's finding the first occurence of a given String in the specified file. This is 
 useful if you want to see whether a specified file contains a given String or not.
+
+Option 3: `less -s`
+Source for option 3: https://phoenixnap.com/kb/less-command-in-linux
+
+Command: `less -s rr73.txt`
+
+Output (part of output):
+```
+Materials and methods
+        
+Cells and cultures
+See Supplementary material.
+```
+Command:`less -s rr74.txt`
+
+Output (part of output): 
+```
+Materials and methods
+        
+Mice
+We studied F1-generation SV129 (Taconic, Germantown,
+NY, USA) and C57BL/6 (Jackson Laboratories, Bar Harbor,
+ME, USA) mice at age 6 weeks.
+```
+It's putting consecutive blank lines into a single blank line. This is useful
+if you want to make a file shorter by combining multiple blank lines.
+
