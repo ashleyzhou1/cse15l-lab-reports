@@ -44,12 +44,11 @@ The value of `result` changes to "jpolitz: Hello" + "\n" + yash: How are you" be
 
 Part 2
 
-Absolute path to private key: `/home/linux/ieng6/oce/3f/aszhou`
-![Image](2.1-1.png)
+Absolute path to private key: `/Users/ashleyzhou/.ssh/id_rsa`
+![Image](privateKey.png)
 
-Absolute path to public key: `/Users/ashleyzhou/.ssh/id_rsa.pub`
-![Image](2.1-2.png)
-![Image](2.1-3.png)
+Absolute path to public key: `/home/linux/ieng6/oce/3f/aszhou/.ssh/authorized_keys`
+![Image](publicKey.png)
 
 Logging in without password:
 ![Image](2.1-4.png)
