@@ -168,3 +168,32 @@ ME, USA) mice at age 6 weeks.
 It's putting consecutive blank lines into a single blank line. This is useful
 if you want to make a file shorter by combining multiple blank lines.
 
+Option 4: `less -X`
+Source for option 4: https://phoenixnap.com/kb/less-command-in-linux
+
+Command: `less -X rr73.txt`
+
+Output (part of output):
+```
+        
+Cells and cultures
+See Supplementary material.
+    
+        
+ashleyzhou@Ashleys-MacBook-Pro-4 biomed % 
+```
+Command:`less -X rr74.txt`
+
+Output (part of output): 
+```
+NO is important in modulating basal pulmonary vascular
+tone, as well as in attenuating the development of
+pulmonary hypertension.
+Severe sustained hypoxia causes pulmonary hypertension
+in many animals. Upregulation of all three NOS isoforms
+ashleyzhou@Ashleys-MacBook-Pro-4 biomed % 
+```
+It prevents the screen from clearing after the user enters
+q to exit -less. This is useful if you still want to see the
+contents of the file after you exit out of the -less command.
+
