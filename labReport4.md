@@ -1,6 +1,7 @@
 Lab Report 4
 
 Step 4
+
 ![Image](step4.png)
 
 Keys/commands:
@@ -12,6 +13,7 @@ Keys/commands:
 I just typed out the commands.
 
 Step 5
+
 ![Image](step5.png)
 
 Keys typed/commands:
@@ -22,6 +24,7 @@ Keys typed/commands:
 I just typed out the commands
 
 Step 6
+
 ![Image](step6.png)
 
 Keys typed/commands:
@@ -33,6 +36,7 @@ Keys typed/commands:
 I just typed out the commands.
 
 Step 7
+
 ![Image](step7.png)
 
 Keys typed/commands:
@@ -51,6 +55,7 @@ Keys typed/commands:
 I just typed out all the keys. Typing `i` put me in insert mode for vim, and `<down arrow>`, `<right arrow>`, `<right arrow>` allowed me to navigate to the spot I wanted to edit in `ListExmaples.java`.  `<esc>` lets me escape insert mode and `:x` saves and exits.
 
 Step 8
+
 ![Image](step8.png)
 
 Keys typed/commands:
@@ -61,6 +66,7 @@ Keys typed/commands:
 The `bash test.sh` command was two up in my history, so I used the `<up arrow>` to access it. 
 
 Step 9
+
 ![Image](step9.1.png)
 ![Image](step9.2.png)
 
